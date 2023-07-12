@@ -1,0 +1,12 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+$main-color:#290742;
+$color-input: #170027;
+$color-light-purple: #9E6DC2;
+$color-text-dark: #000;
+$color-withe:#ffff;
+$color-green: #4FFF4B;
+
+body{font-family: 'Poppins', sans-serif;}
+
+@import './st-theblogOne', './header', './st-theblogTwo', './st-theblogThree';
